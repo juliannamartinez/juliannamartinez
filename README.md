@@ -5,7 +5,7 @@ I am a recently graduate of Data Science and Business Analytics post-graduate ce
 
 ## Skills and Expertise 
 - Programming: Python (Pandas, NumPy, Scikit-learn), SQL, Tableau
-- Data Science: Modeling, Statistical Analysis, Data Processing
+- Data Science: Modeling, Statistical Analysis, Data Processing, AB Testing
 - Machine Learning: Classification, Regression, Hypothesis Testing, Confidence Intervals, K-Nearest Neighbor, Decision Trees, Random Forest, PCA, K-Means, Cluster Analysis
 - Databases: MongoDB
 - Cloud: Amazon SageMaker
