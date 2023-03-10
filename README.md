@@ -1,7 +1,7 @@
 # Hi I'm Julianna! 👋
 
-I'm an aspiring data scientist/analyst 👩‍💻 I'm most in my element making beautiful graphs and figures to tell a story with data. I'm currently working as a rules analyst at a fast growing startup. 
-I am a recently graduate of Data Science and Business Analytics post-graduate certificate course via The University of Texas at Austin 🤠  
+I'm a Health Data Analyst Associate at a tech start up in San Fransisco 👩‍💻 I'm most in my element making beautiful graphs and figures to tell a story with data.
+I am a recent graduate of the Data Science and Business Analytics post-graduate certificate course via The University of Texas at Austin 🤠  I'm also a Texas Christian University alum (x2). 
 
 ## Skills and Expertise 
 - Programming: Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL), Tableau
